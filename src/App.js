@@ -16,7 +16,7 @@ const App = () => {
                         Perfect to introduce your audio books, songs, tutorials, lessons.
                     </p> */}
                     <p>
-                        <a href="https://4geeksacademy.com/" className="btn btn-default">
+                        <a href="https://www.4geeksacademy.com/" className="btn btn-default">
                             <i className="fa fa-arrow-circle-o-down" /> Sitio Web
                         </a>
                     </p>
